@@ -3,4 +3,4 @@ The repository hosting the code and Rdata used in the paper linked at https://ww
 
 Other data, including genomic data, will accessible via dbGaP via phs002289.v2
 
-To run the avaiable code, load it into a session with the appropriate rdata.
+To run the avaiable code, locate the desired file in /src (source) and load it into an IDE session with the appropriate rdata.
