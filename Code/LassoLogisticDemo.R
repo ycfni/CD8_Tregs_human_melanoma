@@ -1,6 +1,6 @@
 ############### Demo of applying the Lasso Logistic Regression Model ###############
 
-The following code demonstrates how to use the fitted Lasso Logistic Regression Classifer model for identifying tumor antigen-reactive CD8+ T cells in the blood of patients with melanoma, as described in Lu et al. [Nat Immunol 2025]. The code reads in the Lasso logistic model then randomly generates testing data for 100 subjects. The prediction performance is calculated and summarized as a receiver operating curve.
+The following code demonstrates how to use the fitted Lasso Logistic Regression Classifer model for identifying tumor antigen-reactive CD8+ T cells in the blood of patients with melanoma, as described in Lu et al. [Nat Immunol 2025]. The code reads in the Lasso logistic model then randomly generates testing data for 100 subjects. The prediction performance is calculated and summarized as a receiver operating characteristic curve.
 
 ####################################################################################
 
